@@ -3,7 +3,7 @@ MegaShapesでUFOが地面を焼き尽くす
 
 ![UFO](https://github.com/altacouplet/ufoLaserEffect/blob/master/images/ufo.png)
 
-[Youtube](http://www.youtube.com/watch?v=IsBCfcVRgw8){:target="_blank"}
+[Youtube](http://www.youtube.com/watch?v=IsBCfcVRgw8)
 
 
 *別途MegaShapesのアセットが必要です
